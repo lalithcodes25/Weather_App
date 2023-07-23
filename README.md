@@ -1,6 +1,6 @@
 # Weather_App
 
-Website - http://127.0.0.1:5500/WEB/index.html
+Website - https://lalithcodes25.github.io/Weather_App/
 
 Tech Stack
 JavaScript
